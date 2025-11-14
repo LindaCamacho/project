@@ -1,4 +1,4 @@
-// Generated from /home/lindatars/Documentos/LenguajesAutomatas/proyect/project/lenguaje/Grammar.g by ANTLR 4.9.2
+// Generated from /home/lindatars/Documentos/LenguajesAutomatas/proyect/project/proyec/api/lenguaje/Grammar.g by ANTLR 4.9.2
 import org.antlr.v4.runtime.atn.*;
 import org.antlr.v4.runtime.dfa.DFA;
 import org.antlr.v4.runtime.*;

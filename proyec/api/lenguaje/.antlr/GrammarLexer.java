@@ -1,4 +1,4 @@
-// Generated from /home/lindatars/Documentos/LenguajesAutomatas/proyect/project/lenguaje/Grammar.g by ANTLR 4.9.2
+// Generated from /home/lindatars/Documentos/LenguajesAutomatas/proyect/project/proyec/api/lenguaje/Grammar.g by ANTLR 4.9.2
 import org.antlr.v4.runtime.Lexer;
 import org.antlr.v4.runtime.CharStream;
 import org.antlr.v4.runtime.Token;
