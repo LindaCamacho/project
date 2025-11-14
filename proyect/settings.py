@@ -27,7 +27,8 @@ DEBUG = True
 
 #! Añade el dominio del frontnd
 ALLOWED_HOSTS = [
-    '127.0.0.1:5173'
+    '127.0.0.1:5173',
+    'project-hhsd.onrender.com'
 ]
 
 # Application definition
